@@ -1,6 +1,6 @@
 ### Install install dependency
 
-![instagram](asset/instagram.png)
+![instagram](assets/instagram.png)
 ```
 #For python3 
 pip3 install selenium
