@@ -1,8 +1,18 @@
-# Install install dependency
+### Install install dependency
 
-# Clone the repos
+```
+#For python3 
+pip3 install selenium
+```
+
+
+### Clone the repos
+```
 $git clone https://github.com/bm777/mass-instagram-account-creator.git
+```
 
-# Implementation
+### Implementation
+```
 
+```
  - [-] enfoy :)
